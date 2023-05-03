@@ -1,4 +1,6 @@
 github.com/OntoLedgy/storage_interop_services v0.0.31 h1:YHDmBH+4iBa7IcSuMw/RNptHIxXjiyHjxMx1uRj3kCA=
 github.com/OntoLedgy/storage_interop_services v0.0.31/go.mod h1:r4ZWYoZhfXbEPOarpZ0Plj6S0wkCZHZNZkzel7HD2nY=
+github.com/OntoLedgy/storage_interop_services v0.0.32 h1:6T320ptnZBuES4St+wvDJMww8f/qO+YISKCI368xa8c=
+github.com/OntoLedgy/storage_interop_services v0.0.32/go.mod h1:lMIbRNS5uvIkab9j+ij2mnOweNJnJhIbGcQjTQzwwlg=
 github.com/sashabaranov/go-openai v1.9.3 h1:uNak3Rn5pPsKRs9bdT7RqRZEyej/zdZOEI2/8wvrFtM=
 github.com/sashabaranov/go-openai v1.9.3/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
