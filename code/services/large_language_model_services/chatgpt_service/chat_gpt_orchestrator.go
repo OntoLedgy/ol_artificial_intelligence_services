@@ -1,4 +1,4 @@
-package large_language_model_services
+package chatgpt_service
 
 import (
 	"context"
